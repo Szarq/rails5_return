@@ -12,7 +12,6 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-Czemu nie dziaasz 
 
 * Database initialization
 
